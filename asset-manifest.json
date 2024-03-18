@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Divyaansh-sharma/Tic-tac-toe-game/static/css/main.0ade4894.css",
+    "main.js": "/Divyaansh-sharma/Tic-tac-toe-game/static/js/main.dd1cfa5c.js",
+    "static/media/1.jpg": "/Divyaansh-sharma/Tic-tac-toe-game/static/media/1.14390ef4690f4da199f0.jpg",
+    "index.html": "/Divyaansh-sharma/Tic-tac-toe-game/index.html",
+    "main.0ade4894.css.map": "/Divyaansh-sharma/Tic-tac-toe-game/static/css/main.0ade4894.css.map",
+    "main.dd1cfa5c.js.map": "/Divyaansh-sharma/Tic-tac-toe-game/static/js/main.dd1cfa5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ade4894.css",
+    "static/js/main.dd1cfa5c.js"
+  ]
+}
