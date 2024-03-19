@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Divyaansh-sharma/Tic-tac-toe-game/static/css/main.0ade4894.css",
-    "main.js": "/Divyaansh-sharma/Tic-tac-toe-game/static/js/main.dd1cfa5c.js",
-    "static/media/1.jpg": "/Divyaansh-sharma/Tic-tac-toe-game/static/media/1.14390ef4690f4da199f0.jpg",
-    "index.html": "/Divyaansh-sharma/Tic-tac-toe-game/index.html",
-    "main.0ade4894.css.map": "/Divyaansh-sharma/Tic-tac-toe-game/static/css/main.0ade4894.css.map",
-    "main.dd1cfa5c.js.map": "/Divyaansh-sharma/Tic-tac-toe-game/static/js/main.dd1cfa5c.js.map"
+    "main.css": "/Tic-tac-toe-game/static/css/main.290cea2c.css",
+    "main.js": "/Tic-tac-toe-game/static/js/main.dd1cfa5c.js",
+    "static/media/1.jpg": "/Tic-tac-toe-game/static/media/1.14390ef4690f4da199f0.jpg",
+    "index.html": "/Tic-tac-toe-game/index.html",
+    "main.290cea2c.css.map": "/Tic-tac-toe-game/static/css/main.290cea2c.css.map",
+    "main.dd1cfa5c.js.map": "/Tic-tac-toe-game/static/js/main.dd1cfa5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ade4894.css",
+    "static/css/main.290cea2c.css",
     "static/js/main.dd1cfa5c.js"
   ]
 }
